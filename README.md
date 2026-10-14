@@ -7,7 +7,7 @@ Agent Atlas 是一个面向 Agent / Agentic AI 学习者与实践者的 **Agent 
 
 它不追求成为最大的 A–Z 术语表，也不重复已有的 Agent 课程、Awesome List 或 Pattern Encyclopedia。它解决一个更具体的问题：当你在书、论文、GitHub、技术博客或 SDK 文档里突然遇到陌生术语时，怎样快速理解它，并把它放回完整的 Agent Engineering 心智模型中。
 
-[在线阅读 Agent Atlas](https://wanxiao2018.github.io/agent-atlas/)
+[在线阅读 Agent Atlas](https://itsdangding.github.io/agent-atlas/)
 
 ## 核心概念骨架
 
